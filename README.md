@@ -1,6 +1,5 @@
 # data-cleaning-final-test
 Final programming assignment of data cleaning course
-
 Here below is what I have done - steps taken to complete the assignment.
 # First of all I have uploaded the dplyr package and set as the working directory the one where I was going to download the files. 
 # The files have been downloaded and unzipped into a dedicated directory  
